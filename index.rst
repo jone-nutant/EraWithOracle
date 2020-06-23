@@ -84,7 +84,7 @@ Networking
 
 Hosted POC clusters follow a standard naming convention:
 
-- **Cluster Name** - POC\ *XYZ*
+- **Cluster Name** - POC\ *AAA*
 - **Subnet** - 10.**21**.\ *XYZ*\ .0
 - **Cluster IP** - 10.**21**.\ *XYZ*\ .37
 
